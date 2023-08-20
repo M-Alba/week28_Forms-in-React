@@ -1,0 +1,41 @@
+.chat {
+	width: 50%;
+}
+
+.comment__subtitle {
+	margin-bottom: 20px;
+	text-align: center;
+	color: cornflowerblue;
+}
+
+.message {
+	margin: 20px 0;
+	display: grid;
+	grid-template-columns: 80px 2fr 1fr;
+	grid-auto-rows: auto;
+	border-bottom: 3px dashed cornflowerblue;
+}
+
+.message_avatar {
+	width: 100%;
+	grid-area: 1/1/2/2;
+}
+.message_name {
+	margin: 0;
+	padding-left: 20px;
+	grid-area: 1/2/2/3;
+	align-self: center;
+	color: cornflowerblue;
+}
+.message_time {
+	margin: 0;
+	grid-area: 1/3/2/4;
+	justify-self: flex-end;
+	font-size: 12px;
+	align-self: center;
+	color: cornflowerblue;
+}
+.message_text {
+	grid-area: 2/1/3/4;
+
+}

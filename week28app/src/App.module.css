@@ -1,0 +1,15 @@
+.App {
+	max-width: 1180px;
+	margin: 0 auto;
+}
+
+.comment__title {
+	text-align: center;
+	margin: 30px 0 20px 0;
+}
+
+.comment__wrapper {
+	display: flex;
+	gap: 40px;
+	justify-content: space-between;
+}

@@ -1,0 +1,32 @@
+.comment__subtitle {
+	margin-bottom: 20px;
+	text-align: center;
+	color: cornflowerblue;
+}
+
+.comment__user {
+	width: 50%;
+}
+
+.author {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+	margin-bottom: 30px;
+    gap: 40px;
+}
+
+.author > label {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.userName, .userAvatar, .userComment {
+	width: 90%;
+	margin-bottom: 30px;
+}
+
+.button {
+	cursor: pointer;
+}
