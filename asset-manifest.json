@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/week28_Forms-in-React/static/css/main.065785df.css",
+    "main.js": "/week28_Forms-in-React/static/js/main.55235624.js",
+    "index.html": "/week28_Forms-in-React/index.html",
+    "main.065785df.css.map": "/week28_Forms-in-React/static/css/main.065785df.css.map",
+    "main.55235624.js.map": "/week28_Forms-in-React/static/js/main.55235624.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.065785df.css",
+    "static/js/main.55235624.js"
+  ]
+}
